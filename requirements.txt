@@ -1,0 +1,5 @@
+dspy-ai
+jupyter
+ipython
+ipywidgets
+openai
