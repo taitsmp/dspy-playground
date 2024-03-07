@@ -1,0 +1,19 @@
+
+
+### What else to try
+
+* Taking Rag furher
+
+https://github.com/weaviate/recipes/blob/main/integrations/dspy/3.Adding-Depth-to-RAG-Programs.ipynb
+
+  - more complicated RAG programs
+  - using an LLM as a Metric (judge)
+  - BayesianSignatureOptimizer 
+
+  https://youtu.be/ickqCzFxWj0
+
+* writing blog posts with DSPY.
+
+https://github.com/weaviate/recipes/blob/main/integrations/dspy/2.Writing-Blog-Posts-with-DSPy.ipynb
+
+https://youtu.be/ickqCzFxWj0
